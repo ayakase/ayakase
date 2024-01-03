@@ -1,6 +1,6 @@
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+-+こんにちは+👋+ I+am+An&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+-+こんにちは+👋+I+am+An&vCenter=true)](https://git.io/typing-svg)
 
 </h3>
 <p align="center">An enthusiastic developer from Vietnam</p>
