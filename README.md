@@ -1,4 +1,8 @@
-<h3 align="center">Hi there - こんにちは  👋 </h3>
+<h3 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+-+こんにちは+👋)](https://git.io/typing-svg)
+
+</h3>
 <p align="center">An enthusiastic developer from Vietnam</p>
 <div align="center">
 
