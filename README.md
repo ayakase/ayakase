@@ -12,7 +12,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayakase&theme=discord&title=MultiLanguage,Commits,Repositories,Stars,Experience,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayakase&theme=github-compact)](https://github.com/ayakase/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayakase&theme=github-compact&line=628edb)](https://github.com/ayakase/github-readme-activity-graph)
 
 ![](https://svgshare.com/i/11VY.svg)
 
