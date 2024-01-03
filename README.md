@@ -14,4 +14,6 @@
 
 ![](https://svgshare.com/i/11VY.svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayakase&theme=github-compact)](https://github.com/ayakase/github-readme-activity-graph)
+
 </div>
