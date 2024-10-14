@@ -32,7 +32,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/-Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Typesense](https://img.shields.io/badge/-Typesense-231F20?style=flat-square&logoColor=white)
+![Typesense](https://img.shields.io/badge/-Typesense-231F20?style=flat-square&logoColor=white&color=d30365)
 #### Miscellaneous
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
