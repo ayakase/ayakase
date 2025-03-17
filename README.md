@@ -47,9 +47,5 @@
   
 ![Ayakase's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayakase&show_icons=true&theme=tokyonight&card_width=467) 
   
-![GitHub Streak](https://streak-stats.demolab.com?user=ayakase&theme=tokyonight&card_width=467)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayakase&theme=tokyonight&card_width=467)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayakase&layout=compact&langs_count=80&theme=tokyonight&card_width=467)
 </div>
