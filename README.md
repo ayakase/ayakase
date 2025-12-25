@@ -40,12 +40,3 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-</div>
-<div align="center">
-  
-![Ayakase's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayakase&show_icons=true&theme=tokyonight&card_width=467) 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayakase&layout=compact&langs_count=80&theme=tokyonight&card_width=467)
-</div>
